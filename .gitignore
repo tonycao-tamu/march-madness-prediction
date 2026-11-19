@@ -1,0 +1,6 @@
+# Kaggle competition data (not redistributable)
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
